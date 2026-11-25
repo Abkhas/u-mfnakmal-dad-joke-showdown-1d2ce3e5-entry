@@ -8,7 +8,7 @@ Stdlib only. The joke is a single line; the punchline lands at the end.
 import os
 import sys
 
-LINE = "My daughter asked where the water goes when it drains away. I said, 'Down to see the world,' and she said, 'Dad, that's the deepest thing you've ever said.'"
+LINE = "My daughter asked where all the odd socks go. I said, \"They run off with the tumble dryer — that's why I only buy socks in pairs, so they always have a sole mate.\""
 
 MAX_CHARS = 200
 
