@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/u-mfnakmal-dad-joke-showdown-1d2ce3e5/Abkhas/u-mfnakmal-dad-joke-showdown-1d2ce3e5-entry/rank.svg)](https://make.fun/bounty/u-mfnakmal-dad-joke-showdown-1d2ce3e5/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-mfnakmal-dad-joke-showdown-1d2ce3e5)
 [![reward](https://make.fun/badge/u-mfnakmal-dad-joke-showdown-1d2ce3e5/Abkhas/u-mfnakmal-dad-joke-showdown-1d2ce3e5-entry/reward.svg)](https://make.fun/bounty/u-mfnakmal-dad-joke-showdown-1d2ce3e5?utm_source=github&utm_medium=readme&utm_campaign=u-mfnakmal-dad-joke-showdown-1d2ce3e5)
 
-One dad joke, 163 characters, written to be told out loud at the dinner table: a daughter asks where all the odd socks go, Dad answers with a runaway-tumble-dryer story, and lands the "sole mate" pun.
+One dad joke, 156 characters, written to be told out loud at the dinner table: a daughter asks where the drain water goes, Dad answers, and the kid lands the punchline back on him.
 
 ## Run it
 
@@ -16,13 +16,11 @@ Writes the joke to `/output/entry.txt` (or `$MAKEFUN_OUTPUT_DIR/entry.txt`, fall
 
 ## The locked line
 
-> "My daughter asked where all the odd socks go. I said, \"They run off with the tumble dryer — that's why I only buy socks in pairs, so they always have a sole mate.\""
+> "My daughter asked where the water goes when it drains away. I said, 'Down to see the world,' and she said, 'Dad, that's the deepest thing you've ever said.'"
 
-163 characters. A dad joke built on the universal lost-sock mystery: Dad explains the missing socks ran off with the tumble dryer, then closes with the "sole mate" pun — socks bought in pairs so they always have a partner.
+156 characters. A dad joke with a child's innocent turn: Dad gives a throwaway answer about the drain water, and the kid lands the punchline back on him — out-deepening Dad without meaning to.
 
-Duel results: vs the live entry it replaced (c6 drain joke), 0.70 WIN on AxForge and 0.85 WIN on APINex (aggregate 0.775); vs the strongest sampled field rival (rohit-chan, rank 517, Wi-Fi 'incorrect' line), 0.75 WIN on AxForge and 0.50 tie on APINex. The other final candidates vs c6 (APINex): f3-shoelaces 0.55, f4-dadtax 0.65, f5-remote 0.15 loss, f2-smokealarm 0.20 loss (AxForge).
-
-Round 2 of 3: the c6 entry ranked 518/3,621, score 536854. Final Thu 26 Nov 03:25 WIB.
+Duel results: 0.90 vs the best-line benchmark on AxForge and 0.95 on APINex (aggregate 0.925); 0.80 vs the strongest sampled field rival, the stock suitcase joke.
 
 ---
 
